@@ -93,8 +93,8 @@
 
 </details>
 
-[gsesdras]: https://github.com/euesdrasgois
-[twitter]: https://twitter.com/codeSTACKr
-[instagram]: https://instagram.com/codeSTACKr
-[linkedin]: https://linkedin.com/in/codeSTACKr
+[gsesdras]: https://github.com/gsesdras
+[twitter]: https://twitter.com/gsesdras
+[instagram]: https://instagram.com/gsesdras
+[linkedin]: https://linkedin.com/in/gsesdras
 
