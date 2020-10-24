@@ -9,12 +9,7 @@
 - 🥅 2021 Goals: Contribute more to Open Source projects
 - ⚡ Fun fact: I love to play guitar, piano and eletric guitar
 
-### Spotify Playing 🎧
-
-[<img src="https://now-playing-codestackr.vercel.app/api/spotify-playing" alt="gsesdras Spotify Playing" width="350" />](https://open.spotify.com/user/kbhc0fej5wn0p2vwconfgqiy1)
-
 ### Connect with me:
-
 
 [<img align="left" alt="gsesdras | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />][twitter]
 [<img align="left" alt="gsesdras | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
