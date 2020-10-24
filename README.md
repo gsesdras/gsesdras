@@ -1,6 +1,7 @@
 ### Hi there, I'm Esdras - aka [gsesdras] 👋
 
-[![Twitter Follow](https://img.shields.io/twitter/follow/gsesdras?color=1DA1F2&logo=twitter&style=for-the-badge)](https://twitter.com/intent/follow?original_referer=https%3A%2F%2Fgithub.com%2Feuesdrasgois&screen_name=codeSTACKr)
+[![Twitter Follow](https://img.shields.io/twitter/follow/gsesdras?color=1DA1F2&logo=twitter&style=for-the-badge)](https://twitter.com/intent/follow?original_referer=https%3A%2F%2Fgithub.com%2Feuesdrasgois&screen_name=gsesdras)
+[![Instagram Follow](https://img.shields.io/instagram/follow/gsesdras?color=1DA1F2&logo=instagram&style=for-the-badge)](https://twitter.com/intent/follow?original_referer=https%3A%2F%2Fgithub.com%2Feuesdrasgois&screen_name=gsesdras)
 
 ## I'm a Student, Son, Developer, and Tech Lover!!
 
