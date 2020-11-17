@@ -1,8 +1,8 @@
 ### Hi there, I'm Esdras - aka [gsesdras] 👋
 
 [![Github Badge](https://img.shields.io/badge/-Github-000?style=flat-square&logo=Github&logoColor=white&link=https://github.com/gsesdras)](https://github.com/gsesdras)
-[![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/sandyara-peres-876313119/)](https://www.linkedin.com/in/sandyara-peres-876313119/)
-[![Twitter Badge](https://img.shields.io/badge/-Twitter-1ca0f1?style=flat-square&labelColor=1ca0f1&logo=twitter&logoColor=white&link=https://twitter.com/lgdbittencourt)](https://twitter.com/SandyaraPeres)
+[![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/gsesdras/)](https://www.linkedin.com/in/gsesdras/)
+[![Twitter Badge](https://img.shields.io/badge/-Twitter-1ca0f1?style=flat-square&labelColor=1ca0f1&logo=twitter&logoColor=white&link=https://twitter.com/gsesdras)](https://twitter.com/gsesdras)
 [![Gmail Badge](https://img.shields.io/badge/-sandyara.peres@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:sandyara.peres@gmail.com)](mailto:sandyara.peres@gmail.com)
 [![Site Badge](https://img.shields.io/badge/%20-site%20pessoal-blueviolet)](https://sandyaraperes.com.br/)
 [![Site Badge](https://img.shields.io/badge/%20-curr%C3%ADculo%20lattes-lightgrey)](http://lattes.cnpq.br/6378055720340301)
