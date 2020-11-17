@@ -1,6 +1,6 @@
 ### Hi there, I'm Esdras - aka [gsesdras] 👋
 
-[![Github Badge](https://img.shields.io/badge/-Github-000?style=flat-square&logo=Github&logoColor=white&link=https://github.com/SandyaraPeres)](https://github.com/SandyaraPeres)
+[![Github Badge](https://img.shields.io/badge/-Github-000?style=flat-square&logo=Github&logoColor=white&link=https://github.com/gsesdras)](https://github.com/gsesdras)
 [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/sandyara-peres-876313119/)](https://www.linkedin.com/in/sandyara-peres-876313119/)
 [![Twitter Badge](https://img.shields.io/badge/-Twitter-1ca0f1?style=flat-square&labelColor=1ca0f1&logo=twitter&logoColor=white&link=https://twitter.com/lgdbittencourt)](https://twitter.com/SandyaraPeres)
 [![Gmail Badge](https://img.shields.io/badge/-sandyara.peres@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:sandyara.peres@gmail.com)](mailto:sandyara.peres@gmail.com)
